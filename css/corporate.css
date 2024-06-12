@@ -38,8 +38,13 @@ b, strong {
     font-size: 17px;
 }
 header .navbar-brand img {
-    max-height:28px;
+    max-height:80px;
 }
+
+.footer-logo-m {
+    max-height: 10px;
+}
+
 .header-icon .icon > a {
     font-size: 20px;
 }
